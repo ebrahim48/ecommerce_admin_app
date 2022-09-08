@@ -12,7 +12,7 @@ class ShowLoading extends StatelessWidget {
           indicatorType: Indicator.ballSpinFadeLoader,
           colors: kDefaultRainbowColors,
           strokeWidth: 3,
-          pathBackgroundColor: Colors.black),
+          pathBackgroundColor: Colors.grey),
     );
   }
 }
